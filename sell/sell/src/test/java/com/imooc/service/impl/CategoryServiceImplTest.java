@@ -20,6 +20,8 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 import org.springframework.test.context.junit4.SpringRunner;
 
+import java.util.List;
+
 import static org.junit.Assert.*;
 
 /**
@@ -46,6 +48,8 @@ public class CategoryServiceImplTest {
 
     @Test
     public void findAll() {
+        List<ProductCategory> productCategoryList = categoryService.findAll();
+        Assert.assertNotEquals(0,productCategoryList.size());
     }
 
     @Test
