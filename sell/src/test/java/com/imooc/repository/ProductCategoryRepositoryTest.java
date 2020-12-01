@@ -25,8 +25,9 @@ import java.util.List;
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = ProductCategoryRepositoryTest.class)
 @EnableJpaRepositories(basePackages = "com.imooc")
+//@SpringBootTest(classes = SpringRunner.class)
 @EntityScan("com.imooc")
-@EnableAutoConfiguration(exclude = { JpaRepositoriesAutoConfiguration.class })
+@EnableAutoConfiguration(exclude = {JpaRepositoriesAutoConfiguration.class})
 public class ProductCategoryRepositoryTest {
 
     @Autowired
@@ -39,24 +40,24 @@ public class ProductCategoryRepositoryTest {
     }
 
     @Test
-    public void saveTest(){
-        ProductCategory productCategory = new ProductCategory("男生最爱",4);
+    public void saveTest() {
+        ProductCategory productCategory = new ProductCategory("男生最爱", 4);
         ProductCategory result = repository.save(productCategory);
         Assert.assertNotNull(result);
     }
 
     @Test
-    public void updateTest(){
+    public void updateTest() {
         ProductCategory productCategory = repository.findOne(1);
         productCategory.setCategoryType(3);
         repository.save(productCategory);
     }
 
     @Test
-    public void findByCategoryTypeInTest(){
-        List<Integer> list = Arrays.asList(2,3,4);
+    public void findByCategoryTypeInTest() {
+        List<Integer> list = Arrays.asList(2, 3, 4);
         List<ProductCategory> result = repository.findByCategoryTypeIn(list);
-        Assert.assertNotEquals(0,result);
+        Assert.assertNotEquals(0, result);
         System.out.println(result);
     }
 }
