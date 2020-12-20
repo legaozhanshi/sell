@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c140652e-4032-4962-be50-96f7042209d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/sell/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sell/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\01_系统项目\00_mvn\apache-maven-3.6.3\.m2\repository" />
+        <option name="mavenHome" value="C:\Users\666\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\01_系统项目\00_mvn\apache-maven-3.6.3\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hV9h6Z1aH9LRfFQ30fLwVQbjal" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.50344825" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.imooc.service.impl" />
+      <recent name="com.imooc.repository" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.imooc" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SellApplication">
+    <configuration name="SellApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SellApplication" />
+      <module name="sell" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryServiceImplTest.findOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.service.impl.CategoryServiceImplTest" />
+      <option name="METHOD_NAME" value="findOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductCategoryRepositoryTest.findByCategoryTypeInTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.repository.ProductCategoryRepositoryTest" />
+      <option name="METHOD_NAME" value="findByCategoryTypeInTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductCategoryRepositoryTest.findByCategoryTypeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.repository.ProductCategoryRepositoryTest" />
+      <option name="METHOD_NAME" value="findByCategoryTypeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductCategoryRepositoryTest.saveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.repository.ProductCategoryRepositoryTest" />
+      <option name="METHOD_NAME" value="saveTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="192.168.3.19" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="remote" type="Remote">
+      <module name="sell" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="192.168.3.19" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SellApplication" />
+      <item itemvalue="JUnit.CategoryServiceImplTest.findOne" />
+      <item itemvalue="JUnit.ProductCategoryRepositoryTest.findByCategoryTypeInTest" />
+      <item itemvalue="JUnit.ProductCategoryRepositoryTest.findByCategoryTypeTest" />
+      <item itemvalue="JUnit.ProductCategoryRepositoryTest.saveTest" />
+      <item itemvalue="Remote.remote" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SellApplication" />
+        <item itemvalue="JUnit.CategoryServiceImplTest.findOne" />
+        <item itemvalue="JUnit.ProductCategoryRepositoryTest.findByCategoryTypeInTest" />
+        <item itemvalue="JUnit.ProductCategoryRepositoryTest.findByCategoryTypeTest" />
+        <item itemvalue="JUnit.ProductCategoryRepositoryTest.saveTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c140652e-4032-4962-be50-96f7042209d1" name="Default Changelist" comment="" />
+      <created>1600085510464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600085510464</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600586609196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.720.1240@0.0.1920.1040" timestamp="1600586609196" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1600594808459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600089845631" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.720.1240@0.0.1920.1040" timestamp="1600594808459" />
+    <state x="736" y="387" width="447" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600585338068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="387" width="447" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.720.1240@0.0.1920.1040" timestamp="1600585338068" />
+    <state x="737" y="389" key="DetectedRootsChooserDialog" timestamp="1600088036158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="737" y="389" key="DetectedRootsChooserDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600088036158" />
+    <state x="719" y="204" key="FileChooserDialogImpl" timestamp="1608447822249">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="204" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600088097172" />
+    <state x="719" y="204" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608447822249" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1600608057472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600101196150" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.720.1240@0.0.1920.1040" timestamp="1600608057472" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1600608057472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600101196150" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.720.1240@0.0.1920.1040" timestamp="1600608057472" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1600608057472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600101196150" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.720.1240@0.0.1920.1040" timestamp="1600608057472" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1600608057472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600101196150" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.720.1240@0.0.1920.1040" timestamp="1600608057472" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1600608057430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.720.1240@0.0.1920.1040" timestamp="1600608057430" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1600608057430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.720.1240@0.0.1920.1040" timestamp="1600608057430" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1600608057430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.720.1240@0.0.1920.1040" timestamp="1600608057430" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1600608057430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.720.1240@0.0.1920.1040" timestamp="1600608057430" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1600171814987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600086837492" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.720.1240@0.0.1920.1040" timestamp="1600171814987" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1600587881297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600089513172" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.720.1240@0.0.1920.1040" timestamp="1600587881297" />
+    <state x="759" y="297" key="chooseDestDirectoryDialog" timestamp="1600087924674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="297" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600087924674" />
+    <state x="658" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600088101619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600088101619" />
+    <state x="594" y="177" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600594803855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="177" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600089777239" />
+    <state x="594" y="177" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.720.1240@0.0.1920.1040" timestamp="1600594803855" />
+    <state x="731" y="347" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1600594963556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="347" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600089893985" />
+    <state x="731" y="347" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.0.720.1240@0.0.1920.1040" timestamp="1600594963556" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600587081137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.720.1240@0.0.1920.1040" timestamp="1600587081137" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sell$ProductCategoryRepositoryTest_findOneTest.ic" NAME="ProductCategoryRepositoryTest.findOneTest Coverage Results" MODIFIED="1600585872916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.imooc.repository.*</FILTER>
+    </SUITE>
+  </component>
+</project>
