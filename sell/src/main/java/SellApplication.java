@@ -8,13 +8,18 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerA
 import org.springframework.boot.autoconfigure.jms.JndiConnectionFactoryAutoConfiguration;
 import org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration;
 import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
+//@ComponentScan({"com.imooc"})
+//@EntityScan("com.imooc")
+//@EnableJpaRepositories(basePackages = "com.imooc")
+////@EnableAutoConfiguration(exclude = {DataSourceAutoConfiguration.class})
 @SpringBootApplication
-@ComponentScan({"com.imooc.repository"})
-@EntityScan("com.imooc.repository")
-@EnableJpaRepositories(basePackages = "com.imooc.repository")
-@EnableAutoConfiguration(exclude = {JndiConnectionFactoryAutoConfiguration.class})
+@ComponentScan({"com.imooc"})
+@EntityScan("com.imooc")
+//@EnableAutoConfiguration(exclude = {JpaRepositoriesAutoConfiguration.class})
+@Configuration
 public class SellApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SellApplication.class, args);
